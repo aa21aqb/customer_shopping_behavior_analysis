@@ -81,7 +81,8 @@ The Power BI dashboard provides interactive visualizations to explore customer b
 
 ## How to Run the Project
 1. **Clone the Repository**
-git clone https://github.com/yourusername/customer-shopping-analysis.git
+git clone https://github.com/aa21aqb/customer_shopping_behavior_analysis-SQL-Python-PowerBI
+.git
 2. **Install Required Python Libraries**
 pip install pandas numpy matplotlib seaborn
 3. **Run Python Analysis**
