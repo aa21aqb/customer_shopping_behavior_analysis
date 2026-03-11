@@ -58,7 +58,9 @@ Example analysis included:
 - Top rated products
 
 - Subscriber vs non-subscriber spending
-
+ 
+- Shipping Type Comparison
+ 
 - Discount and promo code impact on purchases
 
  5. **Dashboard Development**
