@@ -167,6 +167,8 @@ Open the Power BI file to explore the interactive visualizations.
 Check the project report and presentation for a full explanation of the analysis and insights.
 
 ## Project Structure
+
+```
 Customer-Shopping-Behavior-Analysis
 │
 ├── dataset
@@ -188,6 +190,7 @@ Customer-Shopping-Behavior-Analysis
 │   └── Customer-Shopping-Behavior-Analysis.pptx
 │
 └── README.md
+```
 
 ## Author
 
