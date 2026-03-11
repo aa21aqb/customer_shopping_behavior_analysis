@@ -195,4 +195,9 @@ Customer-Shopping-Behavior-Analysis
 ## Author
 
 **Adnan Ali**  
-Data Scientist and Data Analytics Professional with skills in Python, SQL, Power BI and Tableau, focused on extracting insights from customer behavior data.
+
+Data Science | Data Analytics & Machine Learning  
+
+- 📍 United Kingdom  
+- 💼 Open to Junior Data Scientist / Data Analyst roles  
+- 🔗 LinkedIn: https://linkedin.com/in/adnanali2
