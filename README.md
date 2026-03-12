@@ -16,7 +16,7 @@ Key analysis tasks include:
 
 ✅ Generating a business report and presentation
 
-![Project_Workflow](Project_Workflow.png)
+![Project Workflow](Project_Workflow.png)
 
 ## Project Steps
 
